@@ -25,8 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-05-28"
   date_end = "2019-08-30"
   description = ""
-  Responsibilities include:
-  """
   
 [[experience]]
   title = "Biostatistician Intern"
