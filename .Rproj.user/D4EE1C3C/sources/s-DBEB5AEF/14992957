@@ -1,22 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1581883744809.000,
+    "created" : 1581884674153.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2375610880",
-    "id" : "5EE38004",
+    "hash" : "1792454016",
+    "id" : "14992957",
     "lastKnownWriteTime" : 1581872428,
     "last_content_update" : 1581872428,
-    "path" : "~/Documents/GitHub/academic-xiao/content/home/about.md",
-    "project_path" : "content/home/about.md",
+    "path" : "~/Documents/GitHub/academic-xiao/content/home/experience.md",
+    "project_path" : "content/home/experience.md",
     "properties" : {
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
