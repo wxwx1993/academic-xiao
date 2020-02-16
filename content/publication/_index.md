@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-[[item]]
+[[pages]]
   title = "Cross-sectional design with a short-term follow-up for prognostic imaging biomarkers"
   author= "Won, Joong-Ho and Wu, Xiao and Lee, Sang Han and Lu, Ying"
   date = "2017"
