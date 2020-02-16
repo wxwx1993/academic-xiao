@@ -18,21 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Causal Inference, Nonparametric Statistics and Bayesian Statistics.
 
 interests:
-- Caual Inference
-- Machine Learning
+- Causal Inference
 - Nonparametric Statistics
-- 
+- Measurement Error and Missing Data
+- Bayesian Biostatistics
 
 education:
   courses:
   - course: Ph.D. in Biostatistics
     institution: Harvard University
-    year: 2020+
+    year: 2020
   - course: M.S. in Biostatistics
-    institution: Harvard University
+    institution: Harvard T.H. Chan School of Public Health
     year: 2017
   - course: LL.B. in Laws, B.S. in Mathematics
     institution: Peking University
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiao Wu is a PhD candidate in the Department of Biostatistics at Harvard University, where he is advised by Dr. Francesca Dominici. His research interests lie at developing causal inference methods to address methodological needs in the analysis of massive . My dissertation work focuses on developing real-time regression methods for both cross-sectional and longitudinal- or cluster-correlated data streams, advised by Professor Peter X.K. Song. Now I am working on a project to handle data streams with dynamic heterogeneity in state space mixed model.
