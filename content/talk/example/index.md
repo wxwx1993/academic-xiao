@@ -1,7 +1,7 @@
 ---
 title: Causal effects of long-term exposure to air pollution on all cause mortality
 event: The 2020 Health Effects Institute Annual Conference
-event_url: https://www.healtheffects.org/annual-conference
+event_url: "https://www.healtheffects.org/annual-conference"
 
  location: the Renaissance Boston Waterfront Hotel
  address:
@@ -56,12 +56,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
