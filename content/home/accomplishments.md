@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "American Statistical Association Biopharmaceutical Section"
   organization_url = "https://community.amstat.org/biop/home"
-  title = "2019 ASA Student Poster Award"
+  title = "2019 ASA Student Travel Award"
   url = ""
   certificate_url = ""
   date_start = "2019-09-01"

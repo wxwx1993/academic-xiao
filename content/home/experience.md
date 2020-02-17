@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.sanofigenzyme.com"
   location = "Cambridge, MA"
   date_start = "2019-02-01"
-  date_end = "2019-05-30"
+  date_end = "2019-04-30"
   description = ""
 
 
