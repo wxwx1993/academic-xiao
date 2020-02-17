@@ -5,7 +5,7 @@ publishDate: 2020-02-17T03:03:17.597557Z
 authors: ["Joong-Ho Won", "Xiao Wu", "Sang Han Lee", "Ying Lu"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Computational Statistics & Data Analysis*"
 
 

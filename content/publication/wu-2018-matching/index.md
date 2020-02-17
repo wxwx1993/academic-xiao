@@ -5,7 +5,7 @@ publishDate: 2020-02-17T03:03:17.600963Z
 authors: ["Xiao Wu", "Fabrizia Mealli", "Marianthi-Anna Kioumourtzoglou", "Francesca Dominici", "Danielle Braun"]
 publication_types: ["3"]
 abstract: ""
-featured: false
+featured: true
 publication: "*arXiv preprint arXiv:1812.06575*"
 
 

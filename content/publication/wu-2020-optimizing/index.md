@@ -5,7 +5,7 @@ publishDate: 2020-02-17T03:03:17.599838Z
 authors: ["Xiao Wu", "Yi Xu", "Bradley P Carlin"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Statistics in Medicine*"
 
 
