@@ -45,4 +45,13 @@ date_format = "Jan 2006"
   date_end = "2017-08-30"
   description = ""
 
+[[experience]]
+  title = "Research Associate"
+  company = "Harvard Business School"
+  company_url = "https://www.hbs.edu"
+  location = "Boston, MA"
+  date_start = "2016-07-15"
+  date_end = "2017-03-15"
+  description = ""
+
 +++

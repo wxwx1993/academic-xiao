@@ -1,21 +1,21 @@
 ---
 title: Matching on Generalized Propensity Scores with Continuous Treatments
-event: The Joint Statistical Meeting (JSM) 2019
-event_url: "https://ww2.amstat.org/meetings/jsm/2019/"
+event: The 2019 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop
+event_url: "https://ww2.amstat.org/meetings/biop/2019/"
 
-location: Colorado Convention Center
+location: Washington Marriott Wardman Park
 address:
-  street: 700 14th St
-  city: Denver
-  region: CO
-  postcode: '80202'
+  street: 2660 Woodley Rd NW
+  city: Washington
+  region: DC
+  postcode: '20008'
   country: United States
 
 summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-31"
+date: "2019-09-25"
 # date_end: "2020-04-07"
 all_day: true
 
@@ -34,7 +34,7 @@ featured: false
 
 links:
 url_code: ""
-url_pdf: jsm-2019.pdf
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
