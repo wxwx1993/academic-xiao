@@ -1,21 +1,21 @@
 ---
-title: Optimizing Interim Analysis Timing for Bayesian Adaptive Commensurate Designs
-event: The 2019 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop
-event_url: "https://ww2.amstat.org/meetings/biop/2019/"
+title: Discussion on Causal Inference Challenges in Air Pollution Research
+event: The Atlantic Causal Inference Conference (ACIC) 2019
+event_url: "https://www.pims.math.ca/scientific-event/190522-acic"
 
-location: Washington Marriott Wardman Park
+location: McGill University
 address:
-  street: 2660 Woodley Rd NW
-  city: Washington
-  region: DC
-  postcode: '20008'
-  country: United States
+  street: 942 Pine Ave W
+  city: Montreal
+  region: Quebec
+  postcode: 'H3A 1A2'
+  country: Canada
 
 summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-25"
+date: "2019-05-23"
 # date_end: "2020-04-07"
 all_day: true
 
