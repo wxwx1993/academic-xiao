@@ -1,9 +1,9 @@
 ---
-title: Long-term Exposure to Fine Particulate Matter is Causally Linked to Mortality Among the Elderly
-event: The 2020 Health Effects Institute Annual Conference
-event_url: "https://www.healtheffects.org/annual-conference"
+title: Matching on generalized propensity scores with continuous treatments
+event: The Joint Statistical Meeting (JSM) 2019
+event_url: "https://ww2.amstat.org/meetings/jsm/2019/"
 
-location: the Renaissance Boston Waterfront Hotel
+location: Colorado Convention Center
 address:
   street: 606 Congress St
   city: Boston
@@ -15,8 +15,8 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-04-05"
-date_end: "2020-04-07"
+date: "2019-07-31"
+# date_end: "2020-04-07"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
