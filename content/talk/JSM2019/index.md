@@ -34,7 +34,7 @@ featured: false
 
 links:
 url_code: ""
-url_pdf: jsm-2019.pdf
+url_pdf: JSM2019/jsm-2019.pdf
 url_slides: ""
 url_video: ""
 
