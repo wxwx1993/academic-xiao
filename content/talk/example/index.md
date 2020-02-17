@@ -4,7 +4,7 @@ event: The 2020 Health Effects Institute Annual Conference
 event_url: "https://www.healtheffects.org/annual-conference"
 
 location: the Renaissance Boston Waterfront Hotel
- address:
+address:
   street: 606 Congress St
   city: Boston
   region: MA
