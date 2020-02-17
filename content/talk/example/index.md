@@ -1,23 +1,23 @@
 ---
-title: Causal effects of long-term $\mbox{PM}_{2.5}$ exposure on all cause mortality
-event: Harvard Data Science Initiative 2019 Conference
-event_url: 
+title: Causal effects of long-term exposure to air pollution on all cause mortality
+event: The 2020 Health Effects Institute Annual Conference
+event_url: https://www.healtheffects.org/annual-conference
 
-# location: Source Themes HQ
-# address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+ location: the Renaissance Boston Waterfront Hotel
+ address:
+  street: 606 Congress St
+  city: Boston
+  region: MA
+  postcode: '02210'
+  country: United States
 
 summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+# date: "2030-06-01T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -57,9 +57,6 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
 
 Slides can be added in a few ways:
 
