@@ -1,5 +1,5 @@
 ---
-title: Causal effects of long-term exposure to air pollution on all cause mortality
+title: Long-term Exposure to Fine Particulate Matter is Causally Linked to Mortality Among the Elderly
 event: The 2020 Health Effects Institute Annual Conference
 event_url: "https://www.healtheffects.org/annual-conference"
 
