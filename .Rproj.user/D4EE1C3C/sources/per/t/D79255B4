@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1581887376913.000,
+    "created" : 1581888304319.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "47905E05",
+    "hash" : "738161502",
+    "id" : "D79255B4",
     "lastKnownWriteTime" : 1581872428,
     "last_content_update" : 1581872428,
-    "path" : "~/Documents/GitHub/academic-xiao/content/home/publications.md",
-    "project_path" : "content/home/publications.md",
+    "path" : "~/Documents/GitHub/academic-xiao/content/home/talks.md",
+    "project_path" : "content/home/talks.md",
     "properties" : {
-        "cursorPosition" : "4,15",
-        "scrollLine" : "0"
+        "cursorPosition" : "30,28",
+        "scrollLine" : "10"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 9,
+    "relative_order" : 10,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
