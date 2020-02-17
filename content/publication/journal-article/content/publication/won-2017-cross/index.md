@@ -6,7 +6,7 @@ authors: ["Joong-Ho Won", "Xiao Wu", "Sang Han Lee", "Ying Lu"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Computational Statistics & Data Analysis"
+publication: "*Computational Statistics & Data Analysis*(1)"
 
 
 # links:
