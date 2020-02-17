@@ -15,7 +15,6 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_format = "Jan 2006"
 date: "2020-04-05"
 date_end: "2020-04-07"
 all_day: false
