@@ -15,7 +15,7 @@ publication: "*Statistics in Medicine*"
 url_pdf: wu-2020-optimizing.pdf
 url_code: https://github.com/wxwx1993/Bayesian_IA_Timing
 url_dataset: ''
-url_poster: ''
+url_poster: biop-2019.pdf
 url_project: ''
 url_slides: ''
 url_source: ''

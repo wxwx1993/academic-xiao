@@ -6,7 +6,7 @@ authors: ["Xiao Wu", "Danielle Braun", "Marianthi-Anna Kioumourtzoglou", "Christ
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*The annals of applied statistics*"
+publication: "*The Annals of Applied Statistics*"
 
 
 # links:
@@ -17,7 +17,7 @@ url_code: https://github.com/wxwx1993/RC-GPS
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: icsa-2018.pdf
 url_source: ''
 url_video: ''
 

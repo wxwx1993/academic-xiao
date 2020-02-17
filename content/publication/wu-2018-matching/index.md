@@ -17,7 +17,7 @@ url_code: https://github.com/wxwx1993/GPSmatching
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: jsm-2019.pdf
 url_source: ''
 url_video: ''
 
