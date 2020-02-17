@@ -1,14 +1,14 @@
 ---
-title: Matching on generalized propensity scores with continuous treatments
+title: Matching on Generalized Propensity Scores with Continuous Treatments
 event: The Joint Statistical Meeting (JSM) 2019
 event_url: "https://ww2.amstat.org/meetings/jsm/2019/"
 
 location: Colorado Convention Center
 address:
-  street: 606 Congress St
-  city: Boston
-  region: MA
-  postcode: '02210'
+  street: 700 14th St
+  city: Denver
+  region: CO
+  postcode: '80202'
   country: United States
 
 summary: 
@@ -35,7 +35,7 @@ featured: false
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: jsm-2019.pdf
 url_video: ""
 
 # Markdown Slides (optional).
