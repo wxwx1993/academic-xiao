@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Xiao Wu is a Ph.D. candidate in the Department of Biostatistics at Harvard University, where he is advised by Dr. Francesca Dominici and Dr. Danielle Braun. His research interests lie at developing causal inference methods to address methodological needs in the environmental health and public policy analysis of massive health claims databases. His dissertation work focuses on developing robust and interpretable causal inference methods to handle continuous and error-prone exposures. He is also working on collaborative projects to design Bayesian clinical trials and real-world evidence studies.
+Xiao Wu is a PhD candidate in the Department of Biostatistics at Harvard University, where he is advised by Dr. Francesca Dominici and Dr. Danielle Braun. His research interests lie at developing causal inference methods to address methodological needs in the environmental health and public policy analysis of massive health claims databases. His dissertation work focuses on developing robust and interpretable causal inference methods to handle continuous and error-prone exposures. He is also working on collaborative projects to design Bayesian clinical trials and real-world evidence studies.
