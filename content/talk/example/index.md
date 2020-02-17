@@ -17,10 +17,10 @@ summary:
 #   End time can optionally be hidden by prefixing the line with `#`.
  date: "2020-04-05T13:00:00Z"
  date_end: "2020-04-07T15:00:00Z"
-# all_day: false
+ all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-04-05"
 
 authors: []
 tags: []
