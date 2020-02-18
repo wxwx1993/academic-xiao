@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal inference, nonparametric statistics and Bayesian biostatistics.
+bio: My research interests include causal inference, machine learning, nonparametric statistics, and Bayesian biostatistics.
 
 interests:
 - Causal Inference
