@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Biostatistics
     institution: Harvard University
-    year: 2020 (Expected)
+    year: 2021 (Expected)
   - course: M.S. in Biostatistics
     institution: Harvard T.H. Chan School of Public Health
     year: 2017
