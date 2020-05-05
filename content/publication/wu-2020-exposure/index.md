@@ -1,22 +1,22 @@
 ---
 title: "Optimizing interim analysis timing for Bayesian adaptive commensurate designs"
-date: 2020-01-01
-publishDate: 2020-02-17T03:03:17.599838Z
-authors: ["Xiao Wu", "Yi Xu", "Bradley P Carlin"]
-publication_types: ["2"]
+date: 2020-04-05
+publishDate:
+authors: ["Xiao Wu", "Rachel C. Nethery", "M. Benjamin Sabath", "Danielle Braun", "Francesca Dominici"]
+publication_types: ["3"]
 abstract: ""
 featured: true
-publication: "*Statistics in Medicine*"
+publication: "*medRxiv 2020.04.05.20054502*"
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: wu-2020-optimizing.pdf
-url_code: https://github.com/wxwx1993/Bayesian_IA_Timing
+url_pdf: ""
+url_code: https://github.com/wxwx1993/PM_COVID
 url_dataset: ''
-url_poster: biop-2019.pdf
-url_project: ''
+url_poster: ''
+url_project: https://projects.iq.harvard.edu/covid-pm
 url_slides: ''
 url_source: ''
 url_video: ''
