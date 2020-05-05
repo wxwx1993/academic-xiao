@@ -1,5 +1,5 @@
 ---
-title: "Optimizing interim analysis timing for Bayesian adaptive commensurate designs"
+title: "Exposure to air pollution and COVID-19 mortality in the United States"
 date: 2020-04-05
 publishDate:
 authors: ["Xiao Wu", "Rachel C. Nethery", "M. Benjamin Sabath", "Danielle Braun", "Francesca Dominici"]
