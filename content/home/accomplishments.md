@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Institute of Mathematical Statistics"
+  organization_url = "https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award"
+  title = "2020 IMS Hannan Graduate Student Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-15"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "American Statistical Association Statistics and the Environment Section"
   organization_url = "https://community.amstat.org/envr/home"
   title = "2019 ASA Student Paper Award"
