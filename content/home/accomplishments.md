@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   [[item]]
   organization = "American Statistical Association Biopharmaceutical Section"
-  organization_url = "https://community.amstat.org/biop/home"
+  organization_url = "https://community.amstat.org/biop/awards/scholarship"
   title = "2020 ASA Biopharmaceutical Section Scholarship Award"
   url = ""
   certificate_url = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "American Statistical Association Statistics and the Environment Section"
-  organization_url = "https://community.amstat.org/envr/home"
+  organization_url = "https://community.amstat.org/envr/recognitionandawards/studentpapercompetition"
   title = "2019 ASA Student Paper Award"
   url = ""
   certificate_url = ""
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "American Statistical Association Biopharmaceutical Section"
-  organization_url = "https://community.amstat.org/biop/home"
+  organization_url = "https://community.amstat.org/biop/awards/pastwinners#RIW_Student_Travel"
   title = "2019 ASA Student Travel Award"
   url = ""
   certificate_url = ""
