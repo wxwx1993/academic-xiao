@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+  [[item]]
+  organization = "American Statistical Association Biopharmaceutical Section"
+  organization_url = "https://community.amstat.org/biop/home"
+  title = "2020 ASA Biopharmaceutical Section Scholarship Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-29"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "American Statistical Association Statistics and the Environment Section"
   organization_url = "https://community.amstat.org/envr/home"
