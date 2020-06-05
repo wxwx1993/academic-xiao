@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+  [[item]]
+  organization = "International Society for Environmental Epidemiology"
+  organization_url = "https://isee2020virtual.org/"
+  title = "2020 ISEE Annual Conference Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-05"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "American Statistical Association Statistics and the Environment Section"
   organization_url = "https://community.amstat.org/envr/recognitionandawards/studentpapercompetition"
