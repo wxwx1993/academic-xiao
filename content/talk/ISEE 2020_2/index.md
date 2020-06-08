@@ -15,7 +15,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-24"
+date: "2020-08-24"
 date_end: "2020-08-27"
 all_day: true
 
