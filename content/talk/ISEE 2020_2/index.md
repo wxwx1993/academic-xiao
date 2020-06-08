@@ -1,7 +1,7 @@
 ---
 title: Impacts of Long-term Exposure to Fine Particulate Matter on Mortality Among the Elderly
 event: 32nd Annual Conference of the International Society for Environmental Epidemiology (ISEE) 2020
-event_url: "www.isee2020virtual.org"
+event_url: "https://www.isee2020virtual.org"
 
 location: Virtual
 # address: Virtual

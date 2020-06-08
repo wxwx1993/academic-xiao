@@ -1,7 +1,7 @@
 ---
 title: Exposure to air pollution and COVID-19 mortality in the United States
 event: 32nd Annual Conference of the International Society for Environmental Epidemiology (ISEE) 2020
-event_url: "www.isee2020virtual.org"
+event_url: "https://www.isee2020virtual.org"
 
 location: Virtual
 # address: Virtual
