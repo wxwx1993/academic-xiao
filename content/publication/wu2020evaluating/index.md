@@ -12,7 +12,7 @@ publication: "*Science Advances*"
 # links:
 # - name: ""
 #   url: ""
-url_pdf: sciadv.aba5692.pdf
+url_pdf: wu2020evaluating.pdf
 url_code: https://github.com/wxwx1993/National_Causal
 url_dataset: ''
 url_poster: ''
