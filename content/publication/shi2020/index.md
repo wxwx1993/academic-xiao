@@ -12,7 +12,7 @@ publication: "*The Lancet Planetary Health*"
 # links:
 # - name: ""
 #   url: ""
-url_pdf: PIIS2542519620302278.pdf
+url_pdf: shiwu2020.pdf
 url_dataset: ''
 url_poster: ''
 url_project: ''
