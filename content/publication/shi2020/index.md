@@ -2,7 +2,7 @@
 title: "Long-term effects of PM2·5 on neurological disorders in the American Medicare population: a longitudinal cohort study"
 date: 2020-10-19
 publishDate: 2020-10-19T03:03:17.599838Z
-authors: ["Liuhua Shi", "Xiao Wu", "Mahdieh {Danesh Yazdi}", "Danielle Braun", "Yara {Abu Awad}", "Yaguang Wei", "Pengfei Liu", "Qian Di", "Yun Wang", "Joel Schwartz", "Francesca Dominici", "Marianthi-Anna Kioumourtzoglou", "Antonella Zanobetti]
+authors: ["Liuhua Shi", "Xiao Wu", "Mahdieh {Danesh Yazdi}", "Danielle Braun", "Yara {Abu Awad}", "Yaguang Wei", "Pengfei Liu", "Qian Di", "Yun Wang", "Joel Schwartz", "Francesca Dominici", "Marianthi-Anna Kioumourtzoglou", "Antonella Zanobetti"]
 publication_types: ["2"]
 abstract: ""
 featured: true
