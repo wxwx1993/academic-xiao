@@ -5,7 +5,7 @@ publishDate:
 authors: ["Xiao Wu", "Rachel C. Nethery", "M. Benjamin Sabath", "Danielle Braun", "Francesca Dominici"]
 publication_types: ["3"]
 abstract: ""
-featured: true
+featured: false
 publication: "*medRxiv 2020.04.05.20054502*"
 
 
