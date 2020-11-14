@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://about.fb.com/company-info/"
   location = "Menlo Park, CA"
   date_start = "2020-06-01"
-  date_end = "2019-08-28"
+  date_end = "2020-08-28"
   description = ""
 
 [[experience]]
