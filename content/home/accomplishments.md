@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Harvard T.H. Chan School of Public Health"
   organization_url = "https://www.hsph.harvard.edu/news/magazine/gift-from-former-dean-bloom-supports-financial-aid/"
-  title = "2021 Barry R. and Irene Tilenius Bloom Fellowship"
+  title = "Barry R. and Irene Tilenius Bloom Fellowship"
   url = ""
   certificate_url = ""
   date_start = "2021-03-19"
