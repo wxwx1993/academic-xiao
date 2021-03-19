@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Harvard T.H. Chan School of Public Health"
+  organization_url = "https://www.hsph.harvard.edu/news/magazine/gift-from-former-dean-bloom-supports-financial-aid/"
+  title = "2021 Barry R. and Irene Tilenius Bloom Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-19"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Institute of Mathematical Statistics"
   organization_url = "https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award"
   title = "2020 IMS Hannan Graduate Student Travel Award"
