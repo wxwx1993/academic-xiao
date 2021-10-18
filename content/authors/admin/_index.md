@@ -14,7 +14,7 @@ role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard University
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
