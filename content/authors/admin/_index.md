@@ -74,6 +74,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+  body{
+  font-size: 12pt;
+}
 Xiao Wu is a Data Science Postdoctoral Fellow at [Stanford Data Science](https://datascience.stanford.edu/), where he works with [Dr. Trevor Hastie](https://web.stanford.edu/~hastie/) in the Department of Statistics. His research interests lie in developing statistical and causal inference methods to address methodological needs in climate and health research. The key goal of his research is to provide scientific evidence on the health impacts of environmental factors in an age of rapidly changing climate.
 
 He completed his Ph.D. training in the Department of Biostatistics at Harvard University, where he was advised by [Dr. Francesca Dominici](https://sites.sph.harvard.edu/francesca-dominici/) and [Dr. Danielle Braun](https://scholar.harvard.edu/dbraun/home). His dissertation focuses on developing causal inference methods to handle error-prone, continuous, and time-series exposures. He is also working on collaborative projects to design Bayesian clinical trials, meta-analyses, and real-world evidence studies.
