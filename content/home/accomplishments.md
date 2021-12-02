@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Forbes"
   organization_url = "https://www.forbes.com/30-under-30/directory/"
-  title = "2022 Forbes 30 under 30"
+  title = "2022 Forbes 30 Under 30 List (Healthcare)"
   url = "https://www.forbes.com/30-under-30/2022/healthcare"
   certificate_url = ""
   date_start = "2021-12-01"
