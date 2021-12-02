@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Forbes"
+  organization_url = "https://www.forbes.com/30-under-30/directory/"
+  title = "2022 Forbes 30 under 30"
+  url = "https://www.forbes.com/30-under-30/2022/healthcare"
+  certificate_url = ""
+  date_start = "2021-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Harvard T.H. Chan School of Public Health"
   organization_url = "https://www.hsph.harvard.edu/news/magazine/gift-from-former-dean-bloom-supports-financial-aid/"
   title = "Barry R. and Irene Tilenius Bloom Fellowship"
