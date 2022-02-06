@@ -58,7 +58,7 @@ social:
   link: https://github.com/wxwx1993
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Tigertiger1993
+  link: https://twitter.com/wu_xiao1993
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
