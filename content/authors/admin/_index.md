@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
