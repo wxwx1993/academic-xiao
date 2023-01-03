@@ -3,7 +3,7 @@ title: "Matching on generalized propensity scores with continuous exposures"
 date: 2022-12-08
 publishDate: 2022-12-08T03:03:17.600963Z
 authors: ["Xiao Wu", "Fabrizia Mealli", "Marianthi-Anna Kioumourtzoglou", "Francesca Dominici", "Danielle Braun"]
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Journal of the American Statistical Association*"
