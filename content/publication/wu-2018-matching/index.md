@@ -1,18 +1,18 @@
 ---
 title: "Matching on generalized propensity scores with continuous exposures"
-date: 2018-01-01
-publishDate: 2020-02-17T03:03:17.600963Z
+date: 2022-12-08
+publishDate: 2022-12-08T03:03:17.600963Z
 authors: ["Xiao Wu", "Fabrizia Mealli", "Marianthi-Anna Kioumourtzoglou", "Francesca Dominici", "Danielle Braun"]
 publication_types: ["3"]
 abstract: ""
 featured: true
-publication: "*arXiv preprint arXiv:1812.06575*"
+publication: "*Journal of the American Statistical Association*"
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: wu-2018-matching.pdf
+url_pdf: wu-2022-matching.pdf
 url_code: https://github.com/wxwx1993/GPSmatching
 url_dataset: ''
 url_poster: ''
