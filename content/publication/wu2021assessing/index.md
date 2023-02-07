@@ -1,12 +1,12 @@
 ---
 title: "Assessing the causal effects of a stochastic intervention in time series data: Are heat alerts effective in preventing deaths and hospitalizations?"
-date: 2021-02-20
+date: 2023-02-03
 publishDate:
 authors: ["Xiao Wu", "Kate R Weinberger", "Gregory A Wellenius", "Francesca Dominici", "Danielle Braun"]
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*arXiv preprint arXiv:2102.10478*"
+publication: "*Biostatistics*"
 
 
 # links:
