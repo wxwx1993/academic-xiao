@@ -11,7 +11,7 @@ publication: "*New England Journal of Medicine*"
 
 # links:
 # - name: ""
-url: https://www.nejm.org/doi/full/10.1056/NEJMsa2300523
+url_pdf: https://www.nejm.org/doi/full/10.1056/NEJMsa2300523
 #url_pdf: wu2021assessing.pdf
 url_code: https://github.com/kevjosey/pm-risk
 url_dataset: ''
