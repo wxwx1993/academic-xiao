@@ -2,7 +2,7 @@
 title: "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis"
 date: 2020-11-06
 publishDate:
-authors: ["Xiao Wu", "Rachel C. Nethery", "M. Benjamin Sabath", "Danielle Braun", "Francesca Dominici"]
+authors: ["Xiao Wu", "Rachel C Nethery", "M Benjamin Sabath", "Danielle Braun", "Francesca Dominici"]
 publication_types: ["2"]
 abstract: ""
 featured: true
