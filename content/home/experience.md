@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -34,16 +34,6 @@ date_format = "Jan 2006"
   date_start = "2019-05-28"
   date_end = "2019-08-30"
   description = ""
-  
-[[experience]]
-  title = "Biostatistician Intern"
-  company = "Sanofi Genzyme"
-  company_url = "https://www.sanofigenzyme.com"
-  location = "Cambridge, MA"
-  date_start = "2019-02-01"
-  date_end = "2019-04-30"
-  description = ""
-
 
 [[experience]]
   title = "Biostatistician Intern"
@@ -52,15 +42,6 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2017-06-05"
   date_end = "2017-08-30"
-  description = ""
-
-[[experience]]
-  title = "Research Associate"
-  company = "Harvard Business School"
-  company_url = "https://www.hbs.edu"
-  location = "Boston, MA"
-  date_start = "2016-07-15"
-  date_end = "2017-03-15"
   description = ""
 
 +++
