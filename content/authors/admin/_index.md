@@ -23,9 +23,9 @@ bio: My research interests include causal inference, machine learning, nonparame
 interests:
 - Causal Inference
 - Nonparametric Statistics
-- Measurement Error
+- Statistical Learning
 - Bayesian Biostatistics
-- Environmental Epidemiology
+- Climate and Health
 
 education:
   courses:
