@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Columbia University Mailman School of Public Health"
+  organization_url = "https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award"
+  title = "Calderone Junior Faculty Award"
+  url = "https://www.publichealth.columbia.edu/people/our-faculty/faculty-awards/calderone-award"
+  certificate_url = ""
+  date_start = "2024-04-30"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Forbes"
   organization_url = "https://www.forbes.com/30-under-30/directory/"
   title = "2022 Forbes 30 Under 30 - Healthcare"
