@@ -17,9 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Quantitative Scientist"
+  company = "Meta Inc"
+  company_url = "https://www.meta.com/"
+  location = "New York, NY"
+  date_start = "2025-07-01"
+  date_end = ""
+  description = ""
+
+
 [[experience]]
   title = "Research Scientist Intern"
-  company = "Facebook Inc"
+  company = "Facebook"
   company_url = "https://about.fb.com/company-info/"
   location = "Menlo Park, CA"
   date_start = "2020-06-01"
@@ -28,7 +39,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data Scientist Intern"
-  company = "Google LLC"
+  company = "Google"
   company_url = "https://about.google"
   location = "Sunnyvale, CA"
   date_start = "2019-05-28"
