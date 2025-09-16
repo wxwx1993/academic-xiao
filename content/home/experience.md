@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Quantitative Scientist"
-  company = "Meta Inc"
+  company = "Meta"
   company_url = "https://www.meta.com/"
   location = "New York, NY"
   date_start = "2025-07-01"
